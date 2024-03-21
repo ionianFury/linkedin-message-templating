@@ -11,10 +11,10 @@ LinkedIn Message Templating është një browser extension që automatizon një 
 
 Për të instaluar këtë browser extension ndiqni këto hapa:
 
-1. Shkarko dhe dekompreso (unzip) browser extension nga [Releases page](https://github.com/ionianFury/linkedin-message-templating/releases).
-2. Hap Google Chrome dhe navigo drejt `chrome://extensions/`.
-3. Aktivizo "Developer mode" lart në të djathtë.
-4. Kliko "Load unpacked" dhe selekto folderin e dekompresuar.
+1. Shkarko dhe dekompreso (unzip) browser extension nga [Releases page](https://github.com/ionianFury/linkedin-message-templating/releases)
+2. Hap Google Chrome dhe navigo drejt `chrome://extensions/`
+3. Aktivizo "Developer mode" lart në të djathtë
+4. Kliko "Load unpacked" dhe selekto folderin e dekompresuar
 
 ## Përdorimi
 
@@ -22,7 +22,7 @@ Për të përdorur këtë extension:
 
 1. Hap https://www.linkedin.com/search/results/people/ dhe zgjidhni filtrat sipas nevojës
 2. Jepe shabllonin e mesazhit tek popup-i poshtë në të majtë
-3. Perfor `{{firstName}}` ose `{{lastName}}` në tekst për zëvendësim përkatës dhe kliko "Ruaj shabllonin"
+3. Përdor `{{firstName}}` ose `{{lastName}}` në tekst për zëvendësim përkatës dhe kliko "Ruaj shabllonin"
 3. Kliko në "Message" butonin e personit për ti shkruar mesazh
 4. Vëre se si mesazhi adaptohet automatikisht
 
